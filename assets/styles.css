@@ -1,8 +1,11 @@
 /* 🌄 Background Styling */
-body {
-    background-image: url("https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"); /* Replace with your preferred image */
+
+.stApp 
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuub7bPwq6yP3A8mkX6z3cUQG6XD-n_olvHQ&s");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
     background-attachment: fixed;
-    background-position: center;
+    height: 100vh;
 }
